@@ -1,5 +1,9 @@
 # ali_nlp_competition
 B榜，第54名，总共600支队伍，进入复赛
+主函数：main.py
+jieba词：jieba
+停止词：chinese_stopwords
+相似词：similar_words
 程序运行说明：
 线下测试：
   将所有的SUBMIT改为False;
